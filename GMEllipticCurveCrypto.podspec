@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   }
   s.social_media_url = 'https://twitter.com/ankitthakur'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '7.0'
 
   s.requires_arc = true
   s.ios.source_files = 'Pod/Classes/**/*'
